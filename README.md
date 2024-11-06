@@ -5,9 +5,8 @@ O projeto é uma Ferramenta de Gerenciamento, podendo ser visto como um CRUD, de
 - Adicionar um Fruta;
 - Modificar um Fruta;
 - Remover uma Fruta;
-- Listar as Frutas presentes;
-- Sair do sistema.
-
+- Listar as Frutas presentes.
+  
 Interface Principal
 
 ![image](https://github.com/user-attachments/assets/a7e7a28a-8a2d-4b82-80ee-8a38f77c7aaf)
